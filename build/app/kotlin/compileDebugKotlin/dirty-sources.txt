@@ -1,0 +1,1 @@
+D:\vs code\covid19\android\app\src\main\kotlin\com\example\covid_tracker\MainActivity.kt
